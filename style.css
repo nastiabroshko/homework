@@ -10,3 +10,40 @@
     font-family: monospace;
 
 }
+.main-image img{
+    width: 100%;
+    height: 500px;
+}
+.main-info{
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.main-info h4{
+    font-weight: 400;
+}
+.main-info span{
+    opacity: 0.5;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: rgb(83, 83, 83);
+    opacity: 1;
+}
+.info2{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.info2 img{
+    width: 500px;
+    height: 300px;
+}
+.info2 span{
+    opacity: 0.5;
+}
+.info2 h4{
+    font-weight: 400;
+}
